@@ -1,0 +1,26 @@
+{
+  "id": "4588dd6a-d0a6-46f1-8d72-b060448f4804",
+  "name": "SaaS_GoogleChart",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SaaS_GoogleChart.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
